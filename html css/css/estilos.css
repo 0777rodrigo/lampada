@@ -1,0 +1,25 @@
+body{
+
+background: linear-gradient(rgb(81, 132, 241),rgb(11, 91, 196));
+height:1000px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+#central{
+
+width: 500px;
+border-radius: 10px;
+background: white;
+padding: 20px;
+flex-direction: column;
+display: flex;
+gap: 10px;
+align-items: center;
+justify-content: center;
+
+}
+
+
